@@ -1,0 +1,88 @@
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
